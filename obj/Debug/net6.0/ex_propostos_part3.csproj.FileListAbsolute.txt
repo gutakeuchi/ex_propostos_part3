@@ -1,0 +1,15 @@
+C:\Users\Gustavo Hideki\Desktop\ex_propostos_part3\bin\Debug\net6.0\ex_propostos_part3.exe
+C:\Users\Gustavo Hideki\Desktop\ex_propostos_part3\bin\Debug\net6.0\ex_propostos_part3.deps.json
+C:\Users\Gustavo Hideki\Desktop\ex_propostos_part3\bin\Debug\net6.0\ex_propostos_part3.runtimeconfig.json
+C:\Users\Gustavo Hideki\Desktop\ex_propostos_part3\bin\Debug\net6.0\ex_propostos_part3.dll
+C:\Users\Gustavo Hideki\Desktop\ex_propostos_part3\bin\Debug\net6.0\ex_propostos_part3.pdb
+C:\Users\Gustavo Hideki\Desktop\ex_propostos_part3\obj\Debug\net6.0\ex_propostos_part3.csproj.AssemblyReference.cache
+C:\Users\Gustavo Hideki\Desktop\ex_propostos_part3\obj\Debug\net6.0\ex_propostos_part3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Hideki\Desktop\ex_propostos_part3\obj\Debug\net6.0\ex_propostos_part3.AssemblyInfoInputs.cache
+C:\Users\Gustavo Hideki\Desktop\ex_propostos_part3\obj\Debug\net6.0\ex_propostos_part3.AssemblyInfo.cs
+C:\Users\Gustavo Hideki\Desktop\ex_propostos_part3\obj\Debug\net6.0\ex_propostos_part3.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Hideki\Desktop\ex_propostos_part3\obj\Debug\net6.0\ex_propostos_part3.dll
+C:\Users\Gustavo Hideki\Desktop\ex_propostos_part3\obj\Debug\net6.0\refint\ex_propostos_part3.dll
+C:\Users\Gustavo Hideki\Desktop\ex_propostos_part3\obj\Debug\net6.0\ex_propostos_part3.pdb
+C:\Users\Gustavo Hideki\Desktop\ex_propostos_part3\obj\Debug\net6.0\ex_propostos_part3.genruntimeconfig.cache
+C:\Users\Gustavo Hideki\Desktop\ex_propostos_part3\obj\Debug\net6.0\ref\ex_propostos_part3.dll
